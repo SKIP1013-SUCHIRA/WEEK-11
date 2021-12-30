@@ -1,0 +1,29 @@
+Enter five integers one number per line
+1
+3
+5
+7
+9
+Item are: index 0=1
+Item are: index 1=12
+Item are: index 2=5
+Item are: index 3=7
+Item are: index 4=7
+Sum is 25
+Enter five customers: 
+a
+b
+c
+d
+e
+Customer name reverse order: 
+e d c b a
+Enter five integers one number per line
+1
+2
+3
+4
+5
+The sum of the numbers = 15
+The numbers in reverse order are: 
+5 4 3 2 1
